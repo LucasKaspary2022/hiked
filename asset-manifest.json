@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hiked/static/css/main.bd0d9672.chunk.css",
+    "main.js": "/hiked/static/js/main.5db760f1.chunk.js",
+    "main.js.map": "/hiked/static/js/main.5db760f1.chunk.js.map",
+    "runtime-main.js": "/hiked/static/js/runtime-main.66d52713.js",
+    "runtime-main.js.map": "/hiked/static/js/runtime-main.66d52713.js.map",
+    "static/js/2.4828bb6b.chunk.js": "/hiked/static/js/2.4828bb6b.chunk.js",
+    "static/js/2.4828bb6b.chunk.js.map": "/hiked/static/js/2.4828bb6b.chunk.js.map",
+    "index.html": "/hiked/index.html",
+    "static/css/main.bd0d9672.chunk.css.map": "/hiked/static/css/main.bd0d9672.chunk.css.map",
+    "static/js/2.4828bb6b.chunk.js.LICENSE.txt": "/hiked/static/js/2.4828bb6b.chunk.js.LICENSE.txt",
+    "static/media/car.763e329c.svg": "/hiked/static/media/car.763e329c.svg",
+    "static/media/chicago.0f0868e4.svg": "/hiked/static/media/chicago.0f0868e4.svg",
+    "static/media/hiked.e5e38a7c.jpeg": "/hiked/static/media/hiked.e5e38a7c.jpeg",
+    "static/media/hikedBlack.274b335a.jpeg": "/hiked/static/media/hikedBlack.274b335a.jpeg",
+    "static/media/hikedBlue.6082e107.jpeg": "/hiked/static/media/hikedBlue.6082e107.jpeg",
+    "static/media/mountain.1ecbef01.png": "/hiked/static/media/mountain.1ecbef01.png",
+    "static/media/outdoor.329a6824.svg": "/hiked/static/media/outdoor.329a6824.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d52713.js",
+    "static/js/2.4828bb6b.chunk.js",
+    "static/css/main.bd0d9672.chunk.css",
+    "static/js/main.5db760f1.chunk.js"
+  ]
+}
